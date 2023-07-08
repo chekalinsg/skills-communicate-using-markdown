@@ -4,3 +4,7 @@
 #### Header 4
 ##### Header 5
 ###### Header 6
+
+![Link an image.](https://learn.microsoft.com/en-us/training/azure-devops/shared/media/mara.png)
+
+![Alt text](https://learn.microsoft.com/en-us/training/azure-devops/shared/media/mara_wrong.png)
